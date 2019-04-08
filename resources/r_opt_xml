@@ -1,0 +1,12 @@
+<resources>
+
+<drawables>
+<bitmap id="i" filename="i.png"/>
+</drawables>
+
+
+<strings>
+<string id="an">Points</string>
+</strings>
+
+</resources>
